@@ -10,9 +10,9 @@ Estagiário Back‑end com Node.js
 
 ## Linguagens que mais uso & Estatísticas do GitHub
 
-<div style="display:flex; flex-wrap:wrap; gap:16px; align-items:flex-start; margin-bottom:12px;">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamalhoVr&layout=compact&langs_count=8&theme=tokyonight" style="max-width:360px; width:100%; border-radius:8px; box-shadow: 0 0 0 1px rgba(255,255,255,0.03) inset;" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RamalhoVr&show_icons=true&theme=tokyonight" style="max-width:520px; width:100%; border-radius:8px; box-shadow: 0 0 0 1px rgba(255,255,255,0.03) inset;" />
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-start; justify-content:center; margin:0 auto 12px; max-width:640px;">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamalhoVr&layout=compact&langs_count=8&theme=tokyonight" style="max-width:240px; width:100%; border-radius:8px;" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RamalhoVr&show_icons=true&theme=tokyonight" style="max-width:300px; width:100%; border-radius:8px;" />
 </div>
 
 ---
