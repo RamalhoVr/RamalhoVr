@@ -1,4 +1,4 @@
-```markdown
+
 # Victor Ramalho 👋
 
 21 anos • Estudo Sistemas de Informação — PUC CAMPINAS (4º semestre)  
@@ -32,4 +32,3 @@ Estagiário Back‑end com Node.js
 - C — Intermediário
 
 ---
-```
